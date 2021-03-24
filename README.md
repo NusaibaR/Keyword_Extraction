@@ -1,2 +1,2 @@
 # Keyword_Extraction
-The program will extract keywords from an article, using techniques from information retrieval and computational linguistics.
+The program will extract keywords from an article, using techniques from information retrieval and computational linguistics. First, the terms frequencies are found and then the top-ranking words are selected as the keywords. Next, the inverse document frequencies are incorporated to penalize common words. Finally, the TF-IDF score is calculated in order to extract the keywords from the article.
